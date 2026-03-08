@@ -14,8 +14,6 @@ Trifft der Schlag genau auf die Zielposition, geht es ins nächste Level – imm
 - LED-Animationen über **Adafruit NeoPixel**
 - Akustisches Feedback über Buzzer
 - 7 Schwierigkeitsstufen
-- Klare visuelle Rückmeldungen (Gewonnen/Verloren)
-- Rainbow-Pause-Animation
 
 ---
 
@@ -77,8 +75,6 @@ If the punch hits the target position, the game advances to the next level — f
 - LED animations using **Adafruit NeoPixel**
 - Acoustic feedback via buzzer
 - 7 difficulty levels
-- Clear win/lose animations
-- Rainbow idle animation
 
 ---
 
